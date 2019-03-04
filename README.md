@@ -1,5 +1,5 @@
 # FowlerNollVo
-This is a ponylang library for FowlerNollVo hashing FNV1 and FNV1 32-128 bits
+This is a ponylang library for FowlerNollVo hashing FNV1 and FNV1a 32-128 bit hashes
 
 * Install [pony-stable](https://github.com/ponylang/pony-stable)
 * Update your `bundle.json`
