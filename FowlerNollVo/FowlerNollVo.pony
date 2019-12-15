@@ -1,7 +1,7 @@
 use "collections"
 
 type PrimeFieldWidths is (U32 | U64 | U128)
-type ArrayLike is (String val | Array[U8] val)
+type ArrayLike is (String box | Array[U8] box)
 
 primitive Offsets
   fun apply[A: PrimeFieldWidths](): A ? =>
